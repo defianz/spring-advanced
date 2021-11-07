@@ -12,6 +12,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.context.annotation.Import;
 
+import java.io.Serializable;
+
 @Slf4j
 @SpringBootTest
 //@Import(AspectV1.class)
